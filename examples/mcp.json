@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "thumbnailmaker": {
+      "url": "https://www.thumbnailmaker.so/api/mcp",
+      "headers": { "Authorization": "Bearer tm_your_key" }
+    }
+  }
+}
